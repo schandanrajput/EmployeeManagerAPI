@@ -1,3 +1,10 @@
+.settings/
+target
+.project
+Help.md
+.classpath
+.mvn
+src/test
 # Compiled class file
 *.class
 
